@@ -1,0 +1,160 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+     <meta charset="utf-8">
+    <link rel="icon" type="image/png" href="/images/logo.png">
+	<title>Research Point India  </title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">-->
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+<html lang="en">
+ <?php include('includes/header.php');
+?>
+
+<body>
+   <div class="body-inner">
+  
+
+        <?php include('includes/top.php');
+		?>
+		
+		<main id="view-panel" >
+		
+      <?php $page = isset($_GET['page']) ? $_GET['page'] :'home'; ?>
+  	<?php include $page.'.php' ?>
+  	
+
+ 
+ 
+ 
+
+    
+
+      <!-- Footer start-->
+      <footer class="footer" id="footer">
+         <div class="footer-main bg-overlay">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-4 col-md-12 footer-widget footer-about">
+                     <div class="footer-logo">
+                        <img src="images/logo.png" alt="">
+                     </div>
+                     <p>
+					 Research Point India is a research and development company founded in 2010. Our adventure began with a small team of technological specialists, but through hard work and dedication, we have grown into an incredible success and a tech powerhouse in our sector over the last 12 years.  RPI is the world's first Indian PhD consultancy company, delivering superior research support 
+					 </p>
+                     
+                     <h3 class="widget-title">Subscribe Newsletter!</h3>
+                     <form class="newsletter-form" id="newsletter-form" action="#" method="post">
+                        <div class="form-group">
+                           <input class="form-control form-control-lg" id="newsletter-form-email" type="email" name="email" placeholder="Email "
+                              autocomplete="off">
+                           <button class="btn btn-primary"><i class="fa fa-paper-plane"></i></button>
+                        </div>
+                     </form>
+                  </div>
+                  <!-- About us end-->
+                  <div class="col-lg-4 col-md-6 footer-widget">
+                     <h3 class="widget-title">Quick Links</h3>
+                     <ul class="list-dash">
+                      <li><a href="about.html">About Us</a></li>
+                      <li><a href="service.html">Our Services</a></li>
+                      <li><a href="project-all.html">Projects</a></li>
+                      <li><a href="team.html">Our Team</a></li>
+                      <li><a href="faq.html">FAQs</a></li>
+                      <li><a href="news-left-sidebar.html">Our Blog</a></li>
+                      <li><a href="news-right-sidebar.html">Why Need Agent?</a></li>
+                      <li><a href="pricing-table.html">Investments</a></li>
+                      <li><a href="contact.html">Consultation</a></li>
+                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="ELAS/index.php">ELAS</a></li>
+                    </ul>
+                  </div>
+                  <div class="col-lg-4 col-md-6 footer-widget">
+                     <h3 class="widget-title">Company Locations</h3>
+                     <div class="ts-contact-info"><span class="ts-contact-icon float-left"><i class="icon icon-map-marker2"></i></span>
+                        <div class="ts-contact-content">
+                           <h3 class="ts-contact-title">Address</h3>
+                           <p>Research Point India, 669, 2nd  Floor Opp.Hotel Cannan, Veppamodu Jn,Nagercoil -629 001</p>
+                        </div>
+                        <!-- Contact content end-->
+                     </div>
+                     
+                     <div class="ts-contact-info last"><span class="ts-contact-icon float-left"><i class="icon icon-envelope"></i></span>
+                        <div class="ts-contact-content">
+                           <h3 class="ts-contact-title">Email Address</h3>
+                           <p>mail@researchpointindia.com</p>
+                        </div>
+                        <!-- Contact content end-->
+                     </div>
+                     <div class="ts-contact-info"><span class="ts-contact-icon float-left"><i class="icon icon-phone3"></i></span>
+                        <div class="ts-contact-content">
+                           <h3 class="ts-contact-title">Phone Number</h3>
+                           <p>+91 91 59 830 828</p>
+                        </div>
+                        <!-- Contact content end-->
+                     </div>
+                  </div>
+               </div>
+               <!-- Content row end-->
+            </div>
+            <!-- Container end-->
+         </div>
+       
+         <!-- Footer Main-->
+         <div class="copyright">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-6 col-md-12">
+                     <div class="copyright-info"><span>Copyright © 2023  by <a href="https://.com">Research Point India - IT</a></span></div>
+                  </div>
+                  <div class="col-lg-6 col-md-12">
+                    <div class="footer-social text-right">
+                        <ul>
+                           <li><a href="https://facebook.com"><i class="fa fa-facebook"></i></a></li>
+                           <li><a href="https://twitter.com"><i class="fa fa-twitter"></i></a></li>
+                           <li><a href="https://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+                           <li><a href="https://github.com"><i class="fa fa-github"></i></a></li>
+                           <li><a href="https://instagram.com"><i class="fa fa-instagram"></i></a></li>
+                           
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <!-- Row end-->
+            </div>
+            <!-- Container end-->
+         </div>
+         <!-- Copyright end-->
+      </footer>
+      <!-- Footer end-->
+
+      <div class="back-to-top affix" id="back-to-top" data-spy="affix" data-offset-top="10">
+         <button class="btn btn-primary" title="Back to Top"><i class="fa fa-angle-double-up"></i>
+            <!-- icon end-->
+         </button>
+         <!-- button end-->
+      </div>
+      <!-- End Back to Top-->
+
+      <!--
+      Javascript Files
+      ==================================================
+      -->
+    
+  
+   <!--Body Inner end-->
+   </div>
+</body>
+
+</html>
