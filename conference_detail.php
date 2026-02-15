@@ -1,0 +1,1508 @@
+<style>
+    .pub-logo {
+      max-height: 80px;    /* Adjust this height to reduce/increase image size */
+      width: auto;
+      margin: 0 10px;      /* Horizontal spacing between logos */
+      flex-shrink: 1;      /* Allow shrinking if needed */
+    }
+    
+</style>
+
+<!-- Banner -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="content mt-3">
+                    <h2>Trends on Artificial intelligence Technology (TAT) - 2026</h2>
+                    <p class="mt-2">
+                        Advancing Research, Innovation & Academic Collaboration
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<section class="bg-light image-section" style="padding:0px" id="imageSection">
+     <div class="d-flex flex-wrap justify-content-between">
+    <img src="/images/Conference/colleges/psn-logo.png" alt="Inderscience" class="img-fluid flex-fill mx-2" style="max-width: 30%;">
+    <img src="/images/Conference/colleges/lord-logo.png" alt="Scopus Preview" class="img-fluid flex-fill mx-2" style="max-width: 30%;">
+    <img src="/images/Conference/colleges/research-logo.png" alt="Springer" class="img-fluid flex-fill mx-2" style="max-width: 30%;">
+  </div>
+    <h3  style="text-align: center; margin-top: 20px">Jointly presents</h3>
+    <h1 ><marquee style="scrollmount=32">International TAT conference (April 10/April 11)</marquee></h1>
+</section>
+
+<!--<section class="bg-light image-section" style="padding:0px" id="imageSection">-->
+<!--  <div class="container">-->
+<!--    <div class="row text-center">-->
+      
+<!--      <div class="col-12 col-md-4 mb-3">-->
+<!--        <img src="/images/Conference/colleges/psn-logo.png" -->
+<!--             alt="Inderscience" -->
+<!--             class="img-fluid">-->
+<!--      </div>-->
+
+<!--      <div class="col-12 col-md-4 mb-3">-->
+<!--        <img src="/images/Conference/colleges/lord-logo.png" -->
+<!--             alt="Scopus Preview" -->
+<!--             class="img-fluid">-->
+<!--      </div>-->
+
+<!--      <div class="col-12 col-md-4 mb-3">-->
+<!--        <img src="/images/Conference/colleges/research-logo.png" -->
+<!--             alt="Springer" -->
+<!--             class="img-fluid">-->
+<!--      </div>-->
+
+<!--    </div>-->
+
+<!--    <h3 style="text-align: center; margin-top: 20px">Jointly presents</h3>-->
+<!--    <h1 class="text-center">-->
+<!--      <marquee scrollamount="8">International TAT conference (April 10 / April 11)</marquee>-->
+<!--    </h1>-->
+<!--  </div>-->
+<!--</section>-->
+
+<section>
+    <div class="container-fluid px-5">
+    <div class="college" style="display: flex; width: 100%; gap: 20px;">
+
+
+    <div class=""
+         style="
+         flex: 1;
+           background-image: url('/images/Conference/PSN.webp');
+           background-size: cover;
+           background-position: top;
+           background-repeat: no-repeat;
+           min-height: 500px;
+           color: white;
+           position: relative;
+           border-radius: 100px;
+           box-shadow: rgba(255, 0, 0, 0.4) -5px 5px, rgba(255, 0, 0, 0.3) -10px 10px, rgba(255, 0, 0, 0.2) -15px 15px, rgba(255, 0, 0, 0.1) -20px 20px, rgba(255, 0, 0, 0.05) -25px 25px;
+         ">
+        <div class="overlay" style="  
+  text-align: center;
+  position: absolute;
+  width: 100%;
+    background-color: rgba(0,0,0,0.4);
+    <!--background: linear-gradient(-->
+    <!--    to top,-->
+    <!--    rgba(0,0,0,0.9) 0%,-->
+    <!--    rgba(0,0,0,0.6) 40%,-->
+    <!--    rgba(0,0,0,0.3) 100%-->
+    <!--);-->">
+      <h4 style="color: white; font-size: clamp(20px, 4vw, 32px); line-height: 1.4">PSN College of Engineering and Technology (PSNCET)</h4>
+      <p style="color: white; font-size: clamp(10px, 4vw, 20px); line-height: 1.4">
+        PSN College of Engineering and Technology (PSNCET), Tirunelveli, is an autonomous institution dedicated to academic excellence, research innovation, and industry collaboration. With advanced research facilities, Centres of Excellence, and a strong commitment to quality technical education, PSNCET plays a vital role in supporting research initiatives and fostering global academic partnerships.
+      </p>
+      </div>
+    </div>
+
+    <div class=""
+         style="
+         flex: 1;
+           background-image: url('/images/Conference/LJCET.jpg');
+           background-size: cover;
+           background-position: center;
+           background-repeat: no-repeat;
+           min-height: 500px;
+           color: white;
+           position: relative;
+           border-radius: 100px;
+           box-shadow: rgba(255, 0, 0, 0.4) 5px 5px, rgba(255, 0, 0, 0.3) 10px 10px, rgba(255, 0, 0, 0.2) 15px 15px, rgba(255, 0, 0, 0.1) 20px 20px, rgba(255, 0, 0, 0.05) 25px 25px;
+         ">
+                <div class="overlay" style=" 
+  text-align: center;
+  position: absolute;
+  width: 100%;
+    background-color: rgba(0,0,0,0.4);
+    <!--background: linear-gradient(-->
+    <!--    to top,-->
+    <!--    rgba(0,0,0,0.9) 0%,-->
+    <!--    rgba(0,0,0,0.6) 40%,-->
+    <!--    rgba(0,0,0,0.3) 100%-->
+    <!--);-->">
+      <h4 style="color: white; font-size: clamp(20px, 4vw, 32px); line-height: 1.4">Lord Jegannath College of Engineering and Technology (LJCET)</h4>
+      <p style="color: white; font-size: clamp(10px, 4vw, 20px); line-height: 1.4">
+        Lord Jegannath College of Engineering and Technology (LJCET), Nagercoil, is dedicated to academic excellence, research innovation, and industry-oriented education. With modern infrastructure and a vibrant research culture, LJCET actively encourages scholarly publications, interdisciplinary research, and technical collaborations. The institution plays a significant role in supporting national and international conferences, contributing to the advancement of engineering knowledge aligned with globally recognized research and publication standards.
+      </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+</section>
+
+
+<!-- Conference Overview -->
+<section class="py-3">
+    <div class="container">
+        <div class="row ">
+
+
+            <!-- Left Content -->
+            <div class="col-md-8 list">
+
+                <h3>WELCOMES YOU !</h3>
+                <p class="text-justify">
+                    Research Point India Pvt. Ltd. in collaboration with PSN College of Engineering & Technology and Lord Jegannath College of Engineering & Technology is pleased to welcome you to the 2026 International Research TAT Conference on “APRIL 10 &amp; 11, 2026” (TAT-2026). This Conference will be held every year to bring all the authors, researchers and practitioners together to explore their achievements and the latest research in the field of Research &amp; Engineering departments.
+                </p>
+
+                <div class="row mt-4">
+                    <div class="col-md-6">
+                        <p><b>Date:</b> 10 & 11 APril 2026</p>
+                        <p><b>Mode:</b> Hybrid (Online & Inperson)</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p><b>Location:</b> Nagercoil,Tamilnadu,India</p>
+                        <p><b>Organized by:</b> Research Point India</p>
+                    </div>
+                </div>
+
+                <!-- Topics -->
+                <h4 class="mt-4">Conference Research Topics are listed,but not limited to</h4>
+                <div class="row">
+                <div class="col-md-6">
+                <ul>
+                    <li>AI communication networks</li>
+                    <li>AI in healthcare and management</li>
+                    <li>Artificial intelligence and deep learning in education</li>
+                    <li>Artificial intelligence in modelling and simulation</li>
+                    <li>Bioinformatics and computational biology</li>
+                    <li>Big data and deep learning</li>
+                    <li>Cognitive cyber-physical system</li>
+                    <li>Computer vision</li>
+                    <li>Cybersecure AI</li>
+                    <li>Data mining</li>
+                    <li>Evolutionary computing</li>
+                </ul>
+                </div>
+                
+                <div class="col-md-6">
+                <ul>
+                    <li>Fuzzy systems</li>
+                    <li>Hybrid intelligent systems</li>
+                    <li>Industrial applications of AI</li>
+                    <li>Intelligent user interfaces</li>
+                    <li>Knowledge representation and reasoning</li>
+                    <li>Knowledge-based systems machine learning</li>
+                    <li>Model-based reasoning</li>
+                    <li>Natural language processing</li>
+                    <li>Neural networks</li>
+                    <li>Ontology</li>
+                    <li>Robotics</li>
+                    <li>Web intelligence</li>
+                </ul>
+                </div>
+                </div>
+            </div>
+
+            <!-- Right Sidebar -->
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <div class="card-body text-center">
+                        <h5>Call for Papers</h5>
+                
+                        <p class="small">
+                            Researchers, academicians, and scholars are invited to submit their
+                            original research papers.
+                        </p>
+                
+                        <div class="alert alert-light border">
+                            <b style="color: black">Submission Email</b><br>
+                            <a href="mailto:tatconference2026@gmail.com">
+                                tatconference2026@gmail.com
+                            </a>
+                        </div>
+                        
+<!--                        <a href="/images/Conference/intro added base.pdf" target="_blank">-->
+<!--    <button>Open PDF</button>-->
+<!--</a>-->
+
+
+
+        <p class="small mb-0">
+            Please mention <b>Conference Paper Submission</b> in the email subject.
+        </p>
+        
+        <div class="alert alert-light border">
+                            <b style="color: black">Contact</b><br>
+                            <a style="color:red" href="tel:+919486072039">+91 94860 72039</a>
+                        </div>
+    </div>
+</div>
+
+
+                <div class="card">
+                    <div class="card-body">
+                        <h5>Important Dates</h5>
+                        <ul style="color: black" class="list-unstyled">
+                            <li><b>Registration start date:</b> 10 Feb 2026</li>
+                            <li><b>Registration end date:</b> 10 March 2026</li>
+                            <li><b>Full paper submission start date:</b> 20 Feb 2026</li>
+                            <li><b>Submission end date:</b> 20 March 2026</li>
+                            <li><b>Conference start date:</b> 10 April 2026</li>
+                            <li><b>Conference end date:</b> 11 April 2026</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            </div>
+</section>
+
+<section style="padding:0px;">
+<div style="color: black; position: relative;" class="card new_card" id="slide_down">
+                    <div class="card-body">
+                        <h3 style="color: red;margin: -78px 0px 13px -18px;position: absolute;padding: 20px;border-radius: 25px;text-transform: uppercase;/* font-size: 30px; */box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;">Publications</h3>
+                        <p class="slide-down" style="text-decoration: underline; text-underline-offset:4px; font-size: 17px">Join us at the TAT conference — Where innovation meets opportunity</p>
+                        <h4 class="slide-down" style="color: red; font-size: 30px">Be part of a dynamic platform for knowledge exchange, collaboration, and groundbreaking ideas</h4>
+                        <p class="slide-down" style="margin-top: 15px; font-size: 23px">Present your research, connect with leading experts, and unlock opportunities for publication in prestigious journals</p>
+                        <p style="margin: 30px auto; text-align: center; font-size: 25px; text-decoration: underline; text-underline-offset: 6px; text-decoration-color: rgba(255,0,0,0.3)"><strong>Where your research papers will appear - Indexed journals</strong></p>
+                        <div style="gap: 20px; align-items: center" class="row justify-content-center">
+                        <div class="col-md-3 journal">IAES International
+Journal of Robotics and Automation</div>
+                        <div class="col-md-3 journal">Bulletin of Electrical
+Engineering and Informatics</div>
+<div class="col-md-3 journal">International Journal
+of Applied Power Engineering  (IJAPE)</div>
+<div class="col-md-3 journal">Journal of
+Electronics, Electromedical Engineering, and Medical Informatics</div>
+<div class="col-md-3 journal">International Journal
+of Information Technology-springer</div>
+<div class="col-md-3 journal flex-fill">KITSPress (IJDSAI Journal) <br> DOI Assured & Google Scholar Indexed</div>
+</div>
+<p style="margin: 30px auto; text-align: center; font-size: 25px; text-decoration: underline; text-underline-offset: 6px; text-decoration-color: rgba(255,0,0,0.3)"><strong>Publishers</strong></p>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                          <img src="/images/Conference/Publications/Inderscience.jpg" alt="Inderscience" class="img-fluid pub-logo">
+                          <img src="/images/Conference/Publications/scopus.png" alt="Scopus" class="img-fluid pub-logo">
+                          <img src="/images/Conference/Publications/elsvier.jpg" alt="Scopus" class="img-fluid pub-logo">
+                          <img src="/images/Conference/Publications/springer.jpg" alt="Springer" class="img-fluid pub-logo">
+                          <img src="/images/Conference/Publications/Kitspress.png" alt="Kitspress" class="img-fluid pub-logo">
+                        </div>
+                    </div>
+                </div>
+</section>
+
+<section class="bg-light py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">CHIEF PATRON</h3>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/Chief patron/Chief.jpg" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr. P. SUYAMBU</h5>
+                        <p class="fw-bold mb-0">Founder & Chairman</p>
+                        <p class="small">PSN Group of Institutions</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="background_section py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">PATRON</h3>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center faculties">
+            
+            <div class="col-md-4 mb-4">  
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/Patron/Selvakumar.jpg" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr. P. SELVAKUMAR</h5>
+                        <p class="fw-bold mb-0">Executive director</p>
+                        <p class="small">PSN college of engineering and technology, Tirunelveli, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/Patron/Esther.jpg" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr.ESTHER ANNLIN KALA JAMES</h5>
+                        <p class="fw-bold mb-0">Retired principal</p>
+                        <p class="small">Government college of Technology, Coimbatore, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+                
+            
+        </div>
+</section>
+
+<section class="bg-light py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">CO-PATRON</h3>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/Co-patron/Amirdha.jpg" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr. AMIRDHA SHER GILL</h5>
+                        <p class="fw-bold mb-0">Principal</p>
+                        <p class="small">PSN College of Engineering and Technology, Tirunelveli, Tamil Nadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/Co-patron/Principal.png" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr. G. JIJI</h5>
+                        <p class="fw-bold mb-0">Principal</p>
+                        <p class="small">Lord Jegannath College of Engineering and Technology (LJCET), Kanyakumari, Tamil Nadu</p>
+                    </div>
+                </div>
+            </div>
+        </div
+    </div>
+</section>
+
+<section class="bg-light py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">GENERAL CHAIR</h3>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/Jasmine.jpg" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr.JASMINE GNANA MALAR</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">PSN College of Engineering and Technology, Tirunelveli, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/General chair/Albert.jpg" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr. ALBERT RAJ</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">DMI Engineering College, Aralvaimozhi, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/General chair/Deepa.png" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr.P.DEEPA</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Government College of Technology, Coimbatore, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/General chair/Muralikrishnan.png" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr. MURALIKRISHNAN</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">National Institute of Technology, Andhra Pradesh</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<!-- ORGANIZER -->
+<section class="background_section py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">ORGANIZER</h3>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/ajith.jpeg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.AJITH BOSCO</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">PSN College of Engineering and Technology, Tirunelveli, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/rajesh.jpeg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. RAJESH</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">PSN College of Engineering and Technology, Tirunelveli, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Ahilan.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.AHILAN</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">PSN College of Engineering and Technology, Tirunelveli, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<!-- TECHNICAL COMMITTEE -->
+<section class="bg-light py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">TECHNICAL COMMITTEE</h3>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Technical committee/Jabash.jpg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. G.K. JABASH SAMUEAL</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">Rohini College of Engineering and Technology, Kanyakumari, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Technical committee/Kumar.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. S. N. KUMAR</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Amal Jyothi College of Engineering, Kanjirappally, Kottayam, Kerala</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Alagu.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.Alagu Jeyasuthan</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Ramco Institute of Technology, Rajapalayam, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Kala.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.KALA</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Karpagam College of Engineering, Coimbatore, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Technical committee/Christopher.jpg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. CHRISTOPHER COLUMBUS</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">Vellore Institute of Technology, Chennai, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Muthukumaran.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.MUTHUKUMARAN</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">Sri Eshwar College of Engineering, Coimbatore, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Technical committee/Muthukumar.jpg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. MUTHUKUMAR</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">School of Computing and Information Technology, REVA University, Bengaluru</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Dharavath.jpg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.DHARAVATH CHAMPLA</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">Anna University, Chennai Guindy, Mambalam, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Maria.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.MARIA JENCY</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">Loyola Institute of Technology and Science, Kanyakumari, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Nikhil.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.NIKIL MAARIWALA</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">UIET, KUK</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<!-- PUBLICATION COMMITTEE -->
+<section class="background_section py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">PUBLICATION COMMITTEE</h3>
+            </div>
+        </div>
+            
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Jenice.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.JENICE PRABHU</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Arunachala College of Engineering for Women, Kanyakumari, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Publication committee/Tawseef.jpg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. TAWSEEF AYOUB SHAIKH</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">National Institute of Technology (NIT), Srinagar</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Jegatheesh.jpg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr.JEGATHEESH</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Infant Jesus College of Engineering, Thoothukudi, Tamilnadu</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<!-- INTERNATIONAL COMMITTEE -->
+<section class="bg-light py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">INTERNATIONAL COMMITTEE</h3>
+            </div>
+        </div>
+            
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/unnamed.jpg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. Jafar Ahmad Abed Alzubi</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">Al-Balqa Applied University, JORDAN</p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Eduard.jpeg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. Eduard Babulak</h5>
+                        <p class="fw-bold mb-0">Professor</p>
+                        <p class="small">National Science Foundation (NSF),VA, United States</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/International committee/Jaeik.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. JAEIK CHO</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Lewis University, Romeoville, United States</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/International committee/Siamak.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. SIAMAK HOSEINZADEH</h5>
+                        <p class="fw-bold mb-0">Associate Professor</p>
+                        <p class="small">Sapienza University of Rome, Italy</p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/International committee/Zenzo.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. ZENZO POLITE</h5>
+                        <p class="fw-bold mb-0">Senior Lecturer</p>
+                        <p class="small">University of Eswatini</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<!-- INDUSTRIAL EXPERTS -->
+<section class="background_section py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">INDUSTRIAL EXPERTS</h3>
+            </div>
+        </div>
+            
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/Jeyam.png" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Er.JEYAM A.,M.E.,</h5>
+                        <p class="fw-bold text-dark mb-0">Data center Engineer, NTT DATA,Japan</p>
+                        <p class="small"></p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card speaker-card text-center">
+                    <img src="/images/Conference/raja.jpeg" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5>Dr. Raja A.S., M.E., Ph.D</h5>
+                        <p class="fw-bold text-dark mb-0">Senior Data Scientist, Envestnet Inc, Technopark, Trivandrum</p>
+                        <p class="small"></p>
+                    </div>
+                </div>
+            </div>
+            
+            <!--<div class="col-md-4 mb-4">-->
+            <!--    <div class="card speaker-card text-center">-->
+            <!--        <img src="/images/Conference/.jpg" class="card-img-top" alt="">-->
+            <!--        <div class="card-body">-->
+            <!--            <h5>PREETHI</h5>-->
+            <!--            <p class="fw-bold text-dark mb-0"></p>-->
+            <!--            <p class="small text-muted"></p>-->
+            <!--        </div>-->
+            <!--    </div>-->
+            <!--</div>-->
+        </div>
+</section>
+
+<section class="background_section py-5">
+    <div class="container">
+        <div class="row text-center mb-4">
+            <div class="col-md-12">
+                <h3 style="text-decoration: underline; text-underline-offset:10px">KEYNOTE SPEAKERS</h3>
+            </div>
+        </div>
+            
+        <div class="row justify-content-center faculties">
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/General chair/Rajanarayan.png" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5>Dr. RAJANARAYAN PRUSTY</h5>
+                        <p class="fw-bold mb-0">Professor and Dean</p>
+                        <p class="small">Innovation at Noida International University (NIU), India</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card text-center">
+                    <div class="faculty">
+                    <img src="/images/Conference/unnamed (1).jpg" alt="">
+                    </div>
+                    <div class="card-body">
+                        <h5 style="text-transform: uppercase">Dr.Ghazanfar Ali Safdar</h5>
+                        <p class="fw-bold mb-0">Senior Lecturer</p>
+                        <p class="small">University of Bedfordshire, UK.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+<div style="width: 95%; margin: 20px auto 0px auto" class="card new_card">
+                    <div class="card-body">
+                        <h3 style="color: red; text-align: center">Registration Fee</h3>
+                        <div class="registration_fee" style="display:flex; justify-content-center; gap: 20px">
+                            <div class="registration" style="background-color: rgba(0,0,0,0.9); border: 1px solid black; text-align: center; padding: 20px; border-radius: 15px" class="scholar-card">
+                                <div class="rain">
+                                    <span><i style="color: gold" class="fa-solid fa-award"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-shield"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-trophy"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-sack-dollar"></i></span>
+                                </div>
+                                <i style="font-size: 120px; color: white; margin-bottom: 10px" class="fa-brands fa-google-scholar"></i>
+                                <h3 style="color: white">Research scholars</h3>
+                                <p style="color: white; font-size: 15px">INR 2000 / USD 100</p>
+                                <div class="prize" style="margin: 0 auto">
+                                    Exciting cash prizes and certificates waiting for best paper presentation
+                                </div>
+                                <button class="button" onclick="loadForm('scholar')">Register now</button>
+                            </div>
+                            
+                            <div class="registration" style="background-color: rgba(0,0,0,0.9); border: 1px solid black; text-align: center; padding: 20px; border-radius: 15px" class="scholar-card student">
+                                <div class="rain">
+                                    <span><i style="color: gold" class="fa-solid fa-award"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-shield"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-trophy"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-sack-dollar"></i></span>
+                                </div>
+                                <i style="font-size: 120px; color: white; margin-bottom: 10px" class="fa-solid fa-graduation-cap"></i> 
+                                <h3 style="color: white">Students</h3>
+                                <p style="color: white; font-size: 15px">INR 1000 / USD 50</p>
+                                <div class="prize" style="margin: 0 auto">
+                                    Exciting cash prizes and certificates waiting for best paper presentation
+                                </div>
+                                    <button class="button" onclick="loadForm('student')">Register now</button>
+                            </div>
+                            
+                            <div class="registration" style="background-color: rgba(0,0,0,0.9); border: 1px solid black; text-align: center; padding: 20px; border-radius: 15px" class="scholar-card student">
+                                <div class="rain">
+                                    <span><i style="color: gold" class="fa-solid fa-award"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-shield"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-trophy"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-sack-dollar"></i></span>
+                                </div>
+                                <i style="font-size: 120px; color: white; margin-bottom: 10px" class="fa-solid fa-chalkboard-user"></i> 
+                                <h3 style="color: white">Faculties / Industrialists</h3>
+                                <p style="color: white; font-size: 15px">INR 2200 / USD 150</p>
+                                <div class="prize" style="margin: 0 auto">
+                                    Exciting cash prizes and certificates waiting for best paper presentation
+                                </div>
+                                    <button class="button" onclick="loadForm('student')">Register now</button>
+                            </div>
+                            
+                            <div class="registration" style="background-color: rgba(0,0,0,0.9); border: 1px solid black; text-align: center; padding: 20px; border-radius: 15px" class="scholar-card student">
+                                <div class="rain">
+                                    <span><i style="color: gold" class="fa-solid fa-award"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-shield"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-trophy"></i></span>
+                                    <span><i style="color: gold" class="fa-solid fa-sack-dollar"></i></span>
+                                </div>
+                                <i style="font-size: 120px; color: white; margin-bottom: 10px" class="fa-solid fa-users-rays"></i> 
+                                <h3 style="color: white">Listeners</h3>
+                                <p style="color: white; font-size: 15px">INR 1000 / USD 100</p>
+                                <div class="prize" style="margin: 0 auto">
+                                    Exciting cash prizes and certificates waiting for best paper presentation
+                                </div>
+                                    <button class="button" onclick="loadForm('student')">Register now</button>
+                            </div>
+                            
+                            <div class="modal" id="registerModal">
+                                <div class="modal-card" style="position: relative">
+                                    <span class="close-btn" onclick="closeForm()">&times;</span>
+                                    <iframe id="formFrame" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+</div>
+
+<!-- Schedule -->
+<!--<section class="py-5">-->
+<!--    <div class="container">-->
+<!--        <h3 class="text-center mb-4">Conference Schedule</h3>-->
+
+<!--        <div class="table-responsive">-->
+<!--            <table class="table table-bordered">-->
+<!--                <thead class="bg-primary text-white">-->
+<!--                    <tr>-->
+<!--                        <th>Date</th>-->
+<!--                        <th>Session</th>-->
+<!--                        <th>Speaker</th>-->
+<!--                    </tr>-->
+<!--                </thead>-->
+<!--                <tbody>-->
+<!--                    <tr>-->
+<!--                        <td>08 April 2026</td>-->
+<!--                        <td>Inaugural Ceremony</td>-->
+<!--                        <td>Chief Guest</td>-->
+<!--                    </tr>-->
+<!--                    <tr>-->
+<!--                        <td>13 March 2026</td>-->
+<!--                        <td>Keynote Address</td>-->
+<!--                        <td>Dr. R. Kumar</td>-->
+<!--                    </tr>-->
+<!--                    <tr>-->
+<!--                        <td>14 March 2026</td>-->
+<!--                        <td>Paper Presentations</td>-->
+<!--                        <td>Multiple Authors</td>-->
+<!--                    </tr>-->
+<!--                </tbody>-->
+<!--            </table>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+
+<style>
+    .speaker-card{
+        /*position: relative;*/
+        /*overflow: hidden;*/
+        /*border-radius: 20px 20px 0px 0px;*/
+    }
+
+/*.speaker-card * {*/
+/*  position: relative;*/
+/*  z-index: 2;*/
+/*}*/
+
+/*.speaker-card::before {*/
+/*    position: absolute;*/
+/*    content: "";*/
+/*    inset: 0;*/
+/*    background: linear-gradient(135deg, rgba(31,177,230,0.8), rgba(247,204,62,0.8));*/
+/*    transform: translate(100%, -100%);*/
+/*    transition: transform 1s ease-in-out;*/
+/*}*/
+
+/*.speaker-card:hover::before {*/
+/*    transform: translate(0,0);*/
+/*} */
+
+/*.speaker-card p, .speaker-card h5 {*/
+/*    transition: transform 1s ease-in-out;*/
+/*}*/
+
+/*.speaker-card:hover p, .speaker-card:hover h5 {*/
+/*    transform: scale(1.1);*/
+/*}*/
+/*.faculty {*/
+/*    width: 300px;*/
+/*    height: 300px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    margin: 0 auto;*/
+/*    background: #f8f9fa;*/
+/*    overflow: hidden;*/
+/*}*/
+
+/*.faculty img {*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    object-fit: cover;*/
+/*    border-radius: 20px 20px 0px 0px;*/
+/*    display: block;*/
+/*}*/
+
+.faculties .col-md-4 {
+    display: flex;
+}
+
+.faculties .card {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.faculties .card-body {
+    flex-grow: 1;
+}
+
+
+.faculty {
+    width: 300px;
+    height: 270px;
+    overflow: hidden;
+    background: #f8f9fa;
+    margin: 20px auto 10px auto;
+}
+
+.faculty img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 20%;
+    display: block;
+    text-align: center;
+}
+
+
+
+
+.speaker-card img {
+        width: 100%;
+    max-height: 280px; 
+    /*height: 260px;*/
+    object-fit: contain;
+    border-radius: 20px 20px 0px 0px;
+    transition: background 1s ease-in-out;
+}
+
+/*.speaker-card:hover img {*/
+/*    background: linear-gradient(135deg, black, white);*/
+/*}*/
+
+.top_banner .content p {
+    font-size: 16px;
+}
+
+.background_section {
+    background-color: #EEEEEE;
+}
+
+.bg-primary {
+    background-color: #da0f32 !important;
+}
+
+.new_card {
+    margin: 10px;
+    /*border: 1px solid grey;*/
+    /*border-radius: 5px;*/
+    box-shadow: 3px 2px 3px rgba(0,0,0,0.5);
+    /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjaeN3veU_t00FrzrLAw68H0xg7XphCZtY8g&s");*/
+    /*background-attachment: fixed;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+}
+
+.button {
+    margin-top: 30px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 20px;
+    border: 0px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    background: linear-gradient(to right, yellow 50%, red 50%);
+    background-size: 230% 100%;
+    background-position: right bottom;
+    transition: background-position 1s ease, color 1s ease-in;
+}
+
+.button:hover {
+    background-position: left bottom;
+    color: black;
+}
+
+/* Button (red → yellow hover) */
+.cta-btn {
+  padding: 14px 30px;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+
+  background: linear-gradient(to right, yellow 50%, red 50%);
+  background-size: 200% 100%;
+  background-position: right;
+  transition: background-position 0.4s ease;
+}
+
+.cta-btn:hover {
+  background-position: left;
+  color: #000;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-card {
+  background: #fff;
+  padding: 30px;
+  width: 740px;
+  height: 700px;
+  border-radius: 10px;
+  position: relative;
+  animation: slideUp 0.3s ease;
+}
+
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.modal-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.modal-card input,
+.modal-card select {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.submit-btn {
+  margin-top: 10px;
+  padding: 12px;
+  background: #1e3c72;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.scholar-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.scholar-card > *:not(.rain) {
+  position: relative;
+  z-index: 2;
+}
+
+.rain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.rain span {
+  position: absolute;
+  top: -40px;
+  font-size: 22px;
+  opacity: 0;
+}
+
+
+.rain span:nth-child(1) { left: 20%; }
+.rain span:nth-child(2) { left: 40%; }
+.rain span:nth-child(3) { left: 60%; }
+.rain span:nth-child(4) { left: 80%; }
+
+.scholar-card:has(.prize:hover) .rain span {
+  animation: rain 1.6s linear infinite;
+  opacity: 1;
+}
+
+.scholar-card:has(.prize:hover) .rain span:nth-child(1) {
+  animation-delay: 0s;
+}
+.scholar-card:has(.prize:hover) .rain span:nth-child(2) {
+  animation-delay: 0.4s;
+}
+.scholar-card:has(.prize:hover) .rain span:nth-child(3) {
+  animation-delay: 0.8s;
+}
+.scholar-card:has(.prize:hover) .rain span:nth-child(4) {
+  animation-delay: 1s;
+}
+
+@keyframes rain {
+  0% {
+    top: -40px;
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+  }
+  100% {
+    top: 100%;
+    opacity: 0;
+  }
+}
+
+.prize {
+    width: 75%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+
+.prize:before {
+    content: '';
+    background: linear-gradient(
+      45deg,
+      #ff0000,
+      #ff7300,
+      #fffb00,
+      #48ff00,
+      #00ffd5,
+      #002bff,
+      #7a00ff,
+      #ff00c8,
+      #ff0000
+    );
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(6px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 1;                 
+    border-radius: 10px;
+}
+
+.prize:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+.card_affiliation {
+    box-shadow: 10px 0px 10px rgba(0,0,0,0.5);
+    padding: 10px;
+}
+
+.card_affiliation img {
+    padding: 0px 0px 20px 0px;
+}
+
+.card_affiliation_1 {
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.5);
+    padding: 5px;
+}
+
+.card_affiliation_1 img {
+    padding: 0px 0px 0px 5px;
+    object-fit: contain;
+}
+
+.list ul li {
+    color: black;
+    list-style-type: disc;
+}
+
+.list ul {
+    padding-left: 20px;
+}
+
+.speaker-card {
+    box-shadow: 5px 0px 10px rgba(0,0,0,0.5);
+}
+
+.speaker-card img {
+    padding: 20px 0px 0px 0px;
+    margin: 0px auto;
+}
+
+.slide-down {
+    transform: translateY(-20px);
+    opacity: 0;
+    transition: transform 1s ease-in-out, opacity 1s ease-in-out;
+}
+
+.slide-down.active{
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.slide-image {
+    transform: translateX(200%);
+    opacity: 0;
+    transition: transform 1s ease-in-out, opacity 1s ease-in-out;
+}
+
+.slide-image.active{
+    transform: translateX(0);
+    opacity: 1;
+}
+
+#publication {
+    color: red; 
+    top: -97px;
+    left: 85vw; 
+    position: absolute; 
+    font-size: 150px;
+}
+
+.glow {
+    animation: glow 1s ease-in-out infinite alternate;
+    font-family: "Lobster Two", sans-serif;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+@keyframes glow {
+    from {
+        text-shadow: 0 0 10px pink, 0 0 20px yellow, 0 0 5px red, 0 0 10px brown;
+    }
+    to {
+        text-shadow: 0 0 10px white, 0 0 20px white, 0 0 15px #FF0000, 0 0 10px #3F9AAE;
+    }
+}
+
+.creep {
+    font-family: "Creepster", system-ui; 
+    font-size: 50px;
+}
+
+.publishers {
+    width: 50px;
+    height: 100px;
+}
+
+.journal {
+    text-align: center;
+    padding: 0px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(255, 0, 0, 0.75) 0px -2px 6px 0px inset;
+    height: 100px;
+    align-content: center;
+}
+
+.faculties .card {
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.faculties .card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+}
+
+/*.registration_fee {*/
+/*    flex-wrap: wrap;*/
+/*    flex-direction: row;*/
+/*}*/
+
+.registration {
+    width:50%; 
+}
+.overlay {
+    padding: 50px;
+    align-content: center;
+    inset: 0;
+           border-radius: inherit;
+}
+@media (max-width: 768px) {
+    .registration_fee {
+        flex-direction: column;
+    }
+    .registration {
+        width: 100%;
+    }
+    .college {
+        flex-direction: column;
+    }
+    .college .overlay {
+        padding: 10px;
+    align-content: center;
+    inset: 0;
+           border-radius: inherit;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .registration_fee {
+        flex-wrap: wrap;
+    }
+    .registration {
+        width: calc(50% - 10px);
+    }
+    .college {
+        flex-direction: column;
+    }
+}
+
+</style>
+
+<script>
+
+  function closeForm() {
+    document.getElementById("registerModal").style.display = "none";
+  }
+</script>
+
+<script>
+  function loadForm(type) {
+    const modal = document.getElementById("registerModal");
+    const iframe = document.getElementById("formFrame");
+    modal.style.display = "flex";
+    iframe.src = "about:blank";
+    setTimeout(() => {
+      iframe.src =
+        type === "student"
+          ? "https://docs.google.com/forms/d/e/1FAIpQLScLJwYpePqhslB0EEWEqZYe3BEStQOeluG6zJvs35VYG1Orxw/viewform?embedded=true"
+          : "https://docs.google.com/forms/d/e/1FAIpQLSeckO0Q0pd0zGhebOK1PX8AJW-MFpdbLok01VjhqYZwXcAjKA/viewform?embedded=true";
+    }, 50);
+  }
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const section = document.getElementById("imageSection");
+  const images = section.querySelectorAll(".slide-image");
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+
+        images.forEach((img, index) => {
+          setTimeout(() => {
+            img.classList.add("active");
+          }, index * 500);
+        });
+
+        observer.unobserve(section);
+      }
+    });
+  }, {
+    threshold: 0.4
+  });
+
+  observer.observe(section);
+
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const section = document.getElementById("slide_down");
+  const list = section.querySelectorAll(".slide-down");
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+
+        [...list].reverse().forEach((l, index) => {
+          setTimeout(() => {
+            l.classList.add("active");
+          }, index * 500);
+        });
+
+        observer.unobserve(section);
+      }
+    });
+  }, {
+    threshold: 0.2
+  });
+
+  observer.observe(section);
+
+});
+</script>
+
+
+
+
